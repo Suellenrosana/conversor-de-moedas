@@ -16,4 +16,4 @@ A conversão pode ser feita de Real Brasileiro para Dólar Americano, Euro ou Bi
 <li>RESPOSIVIDADE adaptando o site para qualquer modalidade de acesso celular, notebook, Tablet e PC.
 </ul>
 <h2>🔍 Design Web</h2>
-<img src=" ">
+<img src="https://github.com/Suellenrosana/Conversor_de_Moedas/blob/main/assets/Apresenta%C3%A7%C3%A3o%20.jpg?raw=true">
