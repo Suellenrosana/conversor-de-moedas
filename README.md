@@ -2,7 +2,7 @@
 <h1> Conversor de Moedas 🏦 </h1>
 
 Conversor de Moedas feito utilizando as linguagens HTML, CSS e JavaScript.
-A conversão pode ser feita de Real Brasileiro para Dólar Americano, Euro ou Bitcoins.
+A conversão pode ser feita de Real Brasileiro para Dólar Americano, Euro, Libra ou Bitcoins.
 
 <h2>💻Tecnologias utilizadas</h2>
 <ul>
