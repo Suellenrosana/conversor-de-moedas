@@ -7,7 +7,7 @@ A conversão pode ser feita de Real Brasileiro para Dólar Americano, Euro ou Bi
 <h2>💻Tecnologias utilizadas</h2>
 <ul>
 
-<li>HTML5 permitiu a criação da estrutura do site, inserindo textos, imagens vídeos, botões e formulários.
+<li>HTML5 permitiu a criação da estrutura do conversor, inserindo textos, botões e formulários.
 
 <li>CSS3 permitiu alterar as cores, tamanho, estilo de texto e alinhamento dos objetos.
 
